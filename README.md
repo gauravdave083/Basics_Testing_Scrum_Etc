@@ -1,4 +1,4 @@
-# Basics_Testing_Scrum_Etc
+# Basics_Testing_Scrum
 
 1. CR - Change Request - New Requirements come here after Clients and BA meeting
 
